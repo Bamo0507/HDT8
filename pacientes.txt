@@ -1,0 +1,9 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikunguya, E
+Carmen Sarmientos, dolores de parto, B
+CASO D, derrame, D
+CASO E, muelas, E
+CASO A, lupus, A
+CASO C, influenza, C
+CASO B, embolia, B
